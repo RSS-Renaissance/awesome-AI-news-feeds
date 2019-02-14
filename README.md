@@ -1,4 +1,4 @@
-This feed list url: https://raw.githubusercontent.com/RSS-Renaissance/Template/master/feedlist.opml
+This feed list url: https://raw.githubusercontent.com/RSS-Renaissance/awesome-AI-news-feeds/master/feedlist.opml
 
 TITLE | RSS LINK
 ----- | -----
